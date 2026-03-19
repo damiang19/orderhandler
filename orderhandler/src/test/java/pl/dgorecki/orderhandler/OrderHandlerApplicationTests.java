@@ -8,6 +8,7 @@ class OrderHandlerApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
